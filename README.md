@@ -1,2 +1,1 @@
-# fix-windows-icon
-Fix windows icon cache
+# Fix windows icon cache
